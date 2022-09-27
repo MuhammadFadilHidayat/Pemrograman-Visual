@@ -1,0 +1,29 @@
+D:\Data Kuliah\MyRepository\AKBC6503 PEMPROGRAMAN VISUAL\TUGAS_PEMPROGAMAN_VISUAL\TUGAS2\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\bin\Debug\Chapter4 Controlling The Flow.exe.config
+D:\Data Kuliah\MyRepository\AKBC6503 PEMPROGRAMAN VISUAL\TUGAS_PEMPROGAMAN_VISUAL\TUGAS2\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\bin\Debug\Chapter4 Controlling The Flow.exe
+D:\Data Kuliah\MyRepository\AKBC6503 PEMPROGRAMAN VISUAL\TUGAS_PEMPROGAMAN_VISUAL\TUGAS2\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\bin\Debug\Chapter4 Controlling The Flow.pdb
+D:\Data Kuliah\MyRepository\AKBC6503 PEMPROGRAMAN VISUAL\TUGAS_PEMPROGAMAN_VISUAL\TUGAS2\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\bin\Debug\Chapter4 Controlling The Flow.xml
+D:\Data Kuliah\MyRepository\AKBC6503 PEMPROGRAMAN VISUAL\TUGAS_PEMPROGAMAN_VISUAL\TUGAS2\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4 Controlling The Flow.vbprojResolveAssemblyReference.cache
+D:\Data Kuliah\MyRepository\AKBC6503 PEMPROGRAMAN VISUAL\TUGAS_PEMPROGAMAN_VISUAL\TUGAS2\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4_Controlling_The_Flow.Form1.resources
+D:\Data Kuliah\MyRepository\AKBC6503 PEMPROGRAMAN VISUAL\TUGAS_PEMPROGAMAN_VISUAL\TUGAS2\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4_Controlling_The_Flow.Resources.resources
+D:\Data Kuliah\MyRepository\AKBC6503 PEMPROGRAMAN VISUAL\TUGAS_PEMPROGAMAN_VISUAL\TUGAS2\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4 Controlling The Flow.vbproj.GenerateResource.Cache
+D:\Data Kuliah\MyRepository\AKBC6503 PEMPROGRAMAN VISUAL\TUGAS_PEMPROGAMAN_VISUAL\TUGAS2\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4 Controlling The Flow.exe
+D:\Data Kuliah\MyRepository\AKBC6503 PEMPROGRAMAN VISUAL\TUGAS_PEMPROGAMAN_VISUAL\TUGAS2\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4 Controlling The Flow.xml
+D:\Data Kuliah\MyRepository\AKBC6503 PEMPROGRAMAN VISUAL\TUGAS_PEMPROGAMAN_VISUAL\TUGAS2\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4 Controlling The Flow.pdb
+D:\Data Kuliah\MyRepository\AKBC6503 PEMPROGRAMAN VISUAL\TUGAS_PEMPROGAMAN_VISUAL\TUGAS2\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4_Controlling_The_Flow.Simple_If.resources
+D:\Data Kuliah\MyRepository\AKBC6503 PEMPROGRAMAN VISUAL\TUGAS_PEMPROGAMAN_VISUAL\TUGAS2\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4_Controlling_The_Flow.If_Demo.resources
+D:\Data Kuliah\MyRepository\AKBC6503 PEMPROGRAMAN VISUAL\TUGAS_PEMPROGAMAN_VISUAL\TUGAS2\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4_Controlling_The_Flow.And_Or_Demo.resources
+D:\Data Kuliah\MyRepository\AKBC6503 PEMPROGRAMAN VISUAL\TUGAS_PEMPROGAMAN_VISUAL\TUGAS2\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4_Controlling_The_Flow.Select_Case.resources
+D:\Data Kuliah\MyRepository\AKBC6503 PEMPROGRAMAN VISUAL\TUGAS_PEMPROGAMAN_VISUAL\TUGAS2\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4_Controlling_The_Flow.Loops.resources
+D:\Data Kuliah\MyRepository\AKBC6503 PEMPROGRAMAN VISUAL\TUGAS_PEMPROGAMAN_VISUAL\TUGAS2\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4_Controlling_The_Flow.Home.resources
+D:\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4_Controlling_The_Flow.And_Or_Demo.resources
+D:\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4_Controlling_The_Flow.Home.resources
+D:\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4_Controlling_The_Flow.If_Demo.resources
+D:\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4_Controlling_The_Flow.Loops.resources
+D:\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4_Controlling_The_Flow.Resources.resources
+D:\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4_Controlling_The_Flow.Select_Case.resources
+D:\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4_Controlling_The_Flow.Simple_If.resources
+D:\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4 Controlling The Flow.vbproj.GenerateResource.Cache
+D:\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4 Controlling The Flow.exe
+D:\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4 Controlling The Flow.xml
+D:\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\obj\Debug\Chapter4 Controlling The Flow.pdb
+D:\Chapter4 Controlling The Flow\Chapter4 Controlling The Flow\bin\Debug\Chapter4 Controlling The Flow.exe.config
